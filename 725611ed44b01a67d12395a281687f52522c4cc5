@@ -16,6 +16,24 @@
       "revId": "725611ed44b01a67d12395a281687f52522c4cc5",
       "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e5a58974_82615fb2",
+        "filename": "docs/release-notes.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1000016
+      },
+      "writtenOn": "2019-11-13T08:35:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8478de23_f96483aa",
+      "revId": "725611ed44b01a67d12395a281687f52522c4cc5",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": false
     }
   ]
 }
