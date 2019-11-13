@@ -1,11 +1,11 @@
 # Jaeger adapter
 
-This repository contains jaeger configuration files, like the heml charts
+This repository contains jaeger configuration files, like the helm charts
 
 ## Current information
 
 Currently only supported configuration is jaeger-all-in-one deployment.
-The heml chart defines following three services.
+The helm chart defines following three services.
 
 ### The jaeger agent
 
